@@ -1,0 +1,12 @@
+/**
+  .babelrc
+  @author Ethan Mil
+  @version 1.0.0
+
+  Babel configuration file.
+*/
+
+{
+    "presets": ["@babel/preset-react"]
+  }
+  

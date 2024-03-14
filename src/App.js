@@ -1,25 +1,24 @@
-import logo from './logo.svg';
+/*
+  App.js
+  @author Ethan Mil
+  @version 1.0.0
+
+  Parent file for React App.
+*/
+
+import React from 'react';
+import PlaylistPt2 from './components/PlaylistPt2';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <PlaylistPt2 />
       </header>
     </div>
   );
 }
 
 export default App;
+
