@@ -1,0 +1,24 @@
+/* 
+  App.css
+  @author Ethan Mil
+  @version 1.0.0
+
+  Styling Sheet for #6 Add Style.
+*/
+
+.App {
+  text-align: center;
+  background-color: rgba(106, 162, 219, 0.8);
+  font-size: calc(15px);
+  color: rgb(0, 0, 0);
+}
+
+.insert {
+  background-color: #72e465;
+  border: 1px solid #000000;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+  width: 300px;
+  margin: 0 auto;
+}
