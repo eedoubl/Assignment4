@@ -27,7 +27,7 @@ const PlaylistPt2 = () => {
   useEffect(() => {
     //fetch audio_tracks.json
     const fetchAudioTracks = async () => {
-      const response = await fetch('http://localhost:3001/tracks');
+      const response = await fetch('https://github.com/eedoubl/Assignment4/blob/main/src/components/audio_tracks.json');
       const data = await response.json();
       setPlaylist(data);
     };
