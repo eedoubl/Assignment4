@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "//eedoubl.github.io/Assignment4/static/css/main.638eee18.css",
+    "main.js": "//eedoubl.github.io/Assignment4/static/js/main.47238bc9.js",
+    "static/js/787.e528d8b4.chunk.js": "//eedoubl.github.io/Assignment4/static/js/787.e528d8b4.chunk.js",
+    "index.html": "//eedoubl.github.io/Assignment4/index.html",
+    "main.638eee18.css.map": "//eedoubl.github.io/Assignment4/static/css/main.638eee18.css.map",
+    "main.47238bc9.js.map": "//eedoubl.github.io/Assignment4/static/js/main.47238bc9.js.map",
+    "787.e528d8b4.chunk.js.map": "//eedoubl.github.io/Assignment4/static/js/787.e528d8b4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.638eee18.css",
+    "static/js/main.47238bc9.js"
+  ]
+}
