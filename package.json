@@ -2,6 +2,7 @@
   "name": "info655-em879",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://https://eedoubl.github.io/Assignment4/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/user-event": "^13.5.0",
